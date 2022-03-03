@@ -3,7 +3,7 @@ Code to realize different fuction in model car.
 
 # Model car structure
 Akermann type,two drive motor and one steering motor.
-![Image text](https://raw.github.com/yourName/repositpry/master/yourprojectName/img-folder/test.jpg)
+![Image text](https://github.com/BruceXing24/functions-in-model_car/blob/main/Pictures/IMG_20220303_190714.jpg)
 
 # Hardware and software
 * stm32F407 +  raspberry pi 4b + rplidar + deep camera
